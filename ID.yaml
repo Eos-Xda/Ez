@@ -345,4 +345,199 @@ proxies:
   ws-opts:
     path: /Free-CF-Proxy/34.101.247.19-53681
     headers:
-      Host: quiz.int.vidio.com.privasi.bmkg.xyz     
+      Host: quiz.int.vidio.com.privasi.bmkg.xyz
+- name: ID - Rumahweb 1-[VLESS-TLS]
+  server: frelance.biz.id
+  port: 443
+  type: vless
+  uuid: 0ae4e1ba-578f-496f-9166-c50d287c3a53
+  cipher: auto
+  tls: true
+  udp: false
+  skip-cert-verify: true
+  network: ws
+  servername: frelance.biz.id
+  ws-opts:
+    path: /Aryyathy-Mode/203.194.112.119-2053
+    headers:
+      Host: frelance.biz.id
+- name: ID - Rumahweb 2-[VLESS-TLS]
+  server: frelance.biz.id
+  port: 443
+  type: vless
+  uuid: 0ae4e1ba-578f-496f-9166-c50d287c3a53
+  cipher: auto
+  tls: true
+  udp: false
+  skip-cert-verify: true
+  network: ws
+  servername: frelance.biz.id
+  ws-opts:
+    path: /Aryyathy-Mode/203.194.112.119-8443
+    headers:
+      Host: frelance.biz.id
+- name: ID - Alibaba 3-[VLESS-TLS]
+  server: frelance.biz.id
+  port: 443
+  type: vless
+  uuid: 0ae4e1ba-578f-496f-9166-c50d287c3a53
+  cipher: auto
+  tls: true
+  udp: false
+  skip-cert-verify: true
+  network: ws
+  servername: frelance.biz.id
+  ws-opts:
+    path: /Aryyathy-Mode/8.215.196.18-587
+    headers:
+      Host: frelance.biz.id
+- name: ID - PT Telkom Indonesia 4-[VLESS-TLS]
+  server: frelance.biz.id
+  port: 443
+  type: vless
+  uuid: 0ae4e1ba-578f-496f-9166-c50d287c3a53
+  cipher: auto
+  tls: true
+  udp: false
+  skip-cert-verify: true
+  network: ws
+  servername: frelance.biz.id
+  ws-opts:
+    path: /Aryyathy-Mode/36.95.152.58-12137
+    headers:
+      Host: frelance.biz.id
+- name: ID - Amazon 5-[VLESS-TLS]
+  server: frelance.biz.id
+  port: 443
+  type: vless
+  uuid: 0ae4e1ba-578f-496f-9166-c50d287c3a53
+  cipher: auto
+  tls: true
+  udp: false
+  skip-cert-verify: true
+  network: ws
+  servername: frelance.biz.id
+  ws-opts:
+    path: /Aryyathy-Mode/43.218.77.16-443
+    headers:
+      Host: frelance.biz.id
+- name: ID - Amazon 6-[VLESS-TLS]
+  server: frelance.biz.id
+  port: 443
+  type: vless
+  uuid: 0ae4e1ba-578f-496f-9166-c50d287c3a53
+  cipher: auto
+  tls: true
+  udp: false
+  skip-cert-verify: true
+  network: ws
+  servername: frelance.biz.id
+  ws-opts:
+    path: /Aryyathy-Mode/43.218.77.16-1443
+    headers:
+      Host: frelance.biz.id
+- name: ID - PT Pusat Media Indonesia 7-[VLESS-TLS]
+  server: frelance.biz.id
+  port: 443
+  type: vless
+  uuid: 0ae4e1ba-578f-496f-9166-c50d287c3a53
+  cipher: auto
+  tls: true
+  udp: false
+  skip-cert-verify: true
+  network: ws
+  servername: frelance.biz.id
+  ws-opts:
+    path: /Aryyathy-Mode/103.6.207.108-8080
+    headers:
+      Host: frelance.biz.id
+- name: ID - Akamai Connected Cloud 8-[VLESS-TLS]
+  server: frelance.biz.id
+  port: 443
+  type: vless
+  uuid: 0ae4e1ba-578f-496f-9166-c50d287c3a53
+  cipher: auto
+  tls: true
+  udp: false
+  skip-cert-verify: true
+  network: ws
+  servername: frelance.biz.id
+  ws-opts:
+    path: /Aryyathy-Mode/172.232.239.151-587
+    headers:
+      Host: frelance.biz.id
+- name: ID - Amazoncom 9-[VLESS-TLS]
+  server: frelance.biz.id
+  port: 443
+  type: vless
+  uuid: 0ae4e1ba-578f-496f-9166-c50d287c3a53
+  cipher: auto
+  tls: true
+  udp: false
+  skip-cert-verify: true
+  network: ws
+  servername: frelance.biz.id
+  ws-opts:
+    path: /Aryyathy-Mode/43.218.77.16-1443
+    headers:
+      Host: frelance.biz.id
+- name: ID - Amazoncom 10-[VLESS-TLS]
+  server: frelance.biz.id
+  port: 443
+  type: vless
+  uuid: 0ae4e1ba-578f-496f-9166-c50d287c3a53
+  cipher: auto
+  tls: true
+  udp: false
+  skip-cert-verify: true
+  network: ws
+  servername: frelance.biz.id
+  ws-opts:
+    path: /Aryyathy-Mode/43.218.77.16-443
+    headers:
+      Host: frelance.biz.id
+- name: ID - Akamai Connected Cloud 11-[VLESS-TLS]
+  server: frelance.biz.id
+  port: 443
+  type: vless
+  uuid: 0ae4e1ba-578f-496f-9166-c50d287c3a53
+  cipher: auto
+  tls: true
+  udp: false
+  skip-cert-verify: true
+  network: ws
+  servername: frelance.biz.id
+  ws-opts:
+    path: /Aryyathy-Mode/172.232.237.112-2053
+    headers:
+      Host: frelance.biz.id
+- name: ID - Akamai Connected Cloud 12-[VLESS-TLS]
+  server: frelance.biz.id
+  port: 443
+  type: vless
+  uuid: 0ae4e1ba-578f-496f-9166-c50d287c3a53
+  cipher: auto
+  tls: true
+  udp: false
+  skip-cert-verify: true
+  network: ws
+  servername: frelance.biz.id
+  ws-opts:
+    path: /Aryyathy-Mode/172.232.239.134-443
+    headers:
+      Host: frelance.biz.id
+- name: ID - Akamai Connected Cloud 13-[VLESS-TLS]
+  server: frelance.biz.id
+  port: 443
+  type: vless
+  uuid: 0ae4e1ba-578f-496f-9166-c50d287c3a53
+  cipher: auto
+  tls: true
+  udp: false
+  skip-cert-verify: true
+  network: ws
+  servername: frelance.biz.id
+  ws-opts:
+    path: /Aryyathy-Mode/172.235.251.7-587
+    headers:
+      Host: frelance.biz.id   
