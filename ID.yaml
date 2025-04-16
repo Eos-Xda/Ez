@@ -259,3 +259,90 @@ proxies:
     path: /Inconigto-Mode/168.138.166.213-10500
     headers:
       Host: quiz.int.vidio.com.inconigto-mode.web.id
+   port: 443
+  uuid: 0fbf4f81-2598-4b6a-a623-0ead4cb9efa8
+  alterId: 0
+  cipher: zero
+  tls: true
+  skip-cert-verify: true
+  network: ws
+  servername: quiz.int.vidio.com.privasi.bmkg.xyz
+  ws-opts:
+    path: /Free-CF-Proxy/43.218.77.16-443
+    headers:
+      Host: quiz.int.vidio.com.privasi.bmkg.xyz
+- name: 🇮🇩-[ID]=7⚡
+  type: vmess
+  server: quiz.int.vidio.com
+  port: 443
+  uuid: 0fbf4f81-2598-4b6a-a623-0ead4cb9efa8
+  alterId: 0
+  cipher: zero
+  tls: true
+  skip-cert-verify: true
+  network: ws
+  servername: quiz.int.vidio.com.privasi.bmkg.xyz
+  ws-opts:
+    path: /Free-CF-Proxy/203.194.112.119-8443
+    headers:
+      Host: quiz.int.vidio.com.privasi.bmkg.xyz
+- name: 🇮🇩-[ID]=8⚡
+  type: vmess
+  server: quiz.int.vidio.com
+  port: 443
+  uuid: 0fbf4f81-2598-4b6a-a623-0ead4cb9efa8
+  alterId: 0
+  cipher: zero
+  tls: true
+  skip-cert-verify: true
+  network: ws
+  servername: quiz.int.vidio.com.privasi.bmkg.xyz
+  ws-opts:
+    path: /Free-CF-Proxy/103.6.207.108-8080
+    headers:
+      Host: quiz.int.vidio.com.privasi.bmkg.xyz
+- name: 🇮🇩-[ID]=9⚡
+  type: vmess
+  server: quiz.int.vidio.com
+  port: 443
+  uuid: 0fbf4f81-2598-4b6a-a623-0ead4cb9efa8
+  alterId: 0
+  cipher: zero
+  tls: true
+  skip-cert-verify: true
+  network: ws
+  servername: quiz.int.vidio.com.privasi.bmkg.xyz
+  ws-opts:
+    path: /Free-CF-Proxy/203.194.112.119-2053
+    headers:
+      Host: quiz.int.vidio.com.privasi.bmkg.xyz
+- name: 🇮🇩-[ID]=10⚡
+  type: vmess
+  server: quiz.int.vidio.com
+  port: 443
+  uuid: 0fbf4f81-2598-4b6a-a623-0ead4cb9efa8
+  alterId: 0
+  cipher: zero
+  tls: true
+  skip-cert-verify: true
+  network: ws
+  servername: quiz.int.vidio.com.privasi.bmkg.xyz
+  ws-opts:
+    path: /Free-CF-Proxy/172.235.251.7-587
+    headers:
+      Host: quiz.int.vidio.com.privasi.bmkg.xyz
+- name: 🇮🇩-[ID]=11⚡
+  type: vmess
+  server: quiz.int.vidio.com
+  port: 443
+  uuid: 0fbf4f81-2598-4b6a-a623-0ead4cb9efa8
+  alterId: 0
+  cipher: zero
+  tls: true
+  skip-cert-verify: true
+  network: ws
+  servername: quiz.int.vidio.com.privasi.bmkg.xyz
+  ws-opts:
+    path: /Free-CF-Proxy/34.101.247.19-53681
+    headers:
+      Host: quiz.int.vidio.com.privasi.bmkg.xyz     
